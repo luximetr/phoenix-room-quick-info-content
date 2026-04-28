@@ -1,20 +1,45 @@
-[
-  {
-    "id": "1",
-    "title": "First Post",
-    "type": "text",
-    "content": "This is the content of the first post."
-  },
-  {
-    "id": "2",
-    "title": "Room 201",
-    "type": "image",
-    "content": "https://github.com/luximetr/phoenix-room-quick-info-content/blob/cc7adaa96e09dba2e90fb52a1836e62ba8f01f1a/photos/201.jpg"
-  },
-  {
-    "id": "3",
-    "title": "Room 202",
-    "type": "image",
-    "content": "https://github.com/luximetr/phoenix-room-quick-info-content/blob/cc7adaa96e09dba2e90fb52a1836e62ba8f01f1a/photos/202.jpg"
-  }
-]
+{
+  "groups": [
+    {
+      "id": "common-info",
+      "title-en": "Common Info",
+      "title-th": "ข้อมูลทั่วไป"
+    },
+    {
+      "id": "room-201",
+      "title-en": "Room 201",
+      "title-th": "ห้อง 201"
+    },
+    {
+      "id": "room-202",
+      "title-en": "Room 202",
+      "title-th": "ห้อง 202"
+    }
+  ],
+  "items": [
+    {
+      "id": "1",
+      "title-en": "First Post",
+      "title-th": "โพสต์แรก",
+      "group-id": "common-info",
+      "type": "text",
+      "content": "This is the content of the first post."
+    },
+    {
+      "id": "2",
+      "title-en": "Room 201",
+      "title-th": "ห้อง 201",
+      "group-id": "room-201",
+      "type": "image",
+      "content": "https://github.com/luximetr/phoenix-room-quick-info-content/blob/cc7adaa96e09dba2e90fb52a1836e62ba8f01f1a/photos/201.jpg"
+    },
+    {
+      "id": "3",
+      "title-en": "Room 202",
+      "title-th": "ห้อง 202",
+      "group-id": "room-202",
+      "type": "image",
+      "content": "https://github.com/luximetr/phoenix-room-quick-info-content/blob/cc7adaa96e09dba2e90fb52a1836e62ba8f01f1a/photos/202.jpg"
+    }
+  ]
+}
