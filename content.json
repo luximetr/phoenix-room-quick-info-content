@@ -31,7 +31,7 @@
       "title-th": "ห้อง 201",
       "group-id": "room-201",
       "type": "image",
-      "content": "https://github.com/luximetr/phoenix-room-quick-info-content/blob/258e5a0702ed4ca497db08ca4c0583c9271fa02c/photos/201/20260315-1.jpeg"
+      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/201/20260315-1.jpeg"
     },
     {
       "id": "201-2",
@@ -39,7 +39,7 @@
       "title-th": "ห้อง 201",
       "group-id": "room-201",
       "type": "image",
-      "content": "https://github.com/luximetr/phoenix-room-quick-info-content/blob/cc7adaa96e09dba2e90fb52a1836e62ba8f01f1a/photos/201/20260315-2.jpeg"
+      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/201/20260315-2.jpeg"
     },
     {
       "id": "201-3",
@@ -47,7 +47,7 @@
       "title-th": "ห้อง 201",
       "group-id": "room-201",
       "type": "image",
-      "content": "https://github.com/luximetr/phoenix-room-quick-info-content/blob/cc7adaa96e09dba2e90fb52a1836e62ba8f01f1a/photos/201/20260315-3.jpeg"
+      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/201/20260315-3.jpeg"
     },
     {
       "id": "201-4",
@@ -55,7 +55,7 @@
       "title-th": "ห้อง 201",
       "group-id": "room-201",
       "type": "image",
-      "content": "https://github.com/luximetr/phoenix-room-quick-info-content/blob/cc7adaa96e09dba2e90fb52a1836e62ba8f01f1a/photos/201/20260315-4.jpeg"
+      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/201/20260315-4.jpeg"
     },
     {
       "id": "202-1",
@@ -63,7 +63,7 @@
       "title-th": "ห้อง 202",
       "group-id": "room-202",
       "type": "image",
-      "content": "https://github.com/luximetr/phoenix-room-quick-info-content/blob/cc7adaa96e09dba2e90fb52a1836e62ba8f01f1a/photos/202/20260315-1.jpeg"
+      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/202/20260315-1.jpeg"
     }
   ]
 }
