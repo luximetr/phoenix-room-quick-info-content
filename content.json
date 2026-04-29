@@ -19,27 +19,51 @@
   "items": [
     {
       "id": "1",
-      "title-en": "First Post",
+      "title-en": "Common Info",
       "title-th": "โพสต์แรก",
       "group-id": "common-info",
       "type": "text",
-      "content": "This is the content of the first post."
+      "content": "Phoenix Room is a modern and comfortable space designed for relaxation and productivity."
     },
     {
-      "id": "2",
+      "id": "201-1",
       "title-en": "Room 201",
       "title-th": "ห้อง 201",
       "group-id": "room-201",
       "type": "image",
-      "content": "https://github.com/luximetr/phoenix-room-quick-info-content/blob/cc7adaa96e09dba2e90fb52a1836e62ba8f01f1a/photos/201.jpg"
+      "content": "https://github.com/luximetr/phoenix-room-quick-info-content/blob/cc7adaa96e09dba2e90fb52a1836e62ba8f01f1a/photos/201/20260315-1.jpg"
     },
     {
-      "id": "3",
+      "id": "201-2",
+      "title-en": "Room 201",
+      "title-th": "ห้อง 201",
+      "group-id": "room-201",
+      "type": "image",
+      "content": "https://github.com/luximetr/phoenix-room-quick-info-content/blob/cc7adaa96e09dba2e90fb52a1836e62ba8f01f1a/photos/201/20260315-2.jpg"
+    },
+    {
+      "id": "201-3",
+      "title-en": "Room 201",
+      "title-th": "ห้อง 201",
+      "group-id": "room-201",
+      "type": "image",
+      "content": "https://github.com/luximetr/phoenix-room-quick-info-content/blob/cc7adaa96e09dba2e90fb52a1836e62ba8f01f1a/photos/201/20260315-3.jpg"
+    },
+    {
+      "id": "201-4",
+      "title-en": "Room 201",
+      "title-th": "ห้อง 201",
+      "group-id": "room-201",
+      "type": "image",
+      "content": "https://github.com/luximetr/phoenix-room-quick-info-content/blob/cc7adaa96e09dba2e90fb52a1836e62ba8f01f1a/photos/201/20260315-4.jpg"
+    },
+    {
+      "id": "202-1",
       "title-en": "Room 202",
       "title-th": "ห้อง 202",
       "group-id": "room-202",
       "type": "image",
-      "content": "https://github.com/luximetr/phoenix-room-quick-info-content/blob/cc7adaa96e09dba2e90fb52a1836e62ba8f01f1a/photos/202.jpg"
+      "content": "https://github.com/luximetr/phoenix-room-quick-info-content/blob/cc7adaa96e09dba2e90fb52a1836e62ba8f01f1a/photos/202/20260315-1.jpg"
     }
   ]
 }
