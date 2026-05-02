@@ -11,9 +11,9 @@
       "title-th": "ข้อมูลทั่วไปภาษาอังกฤษ"
     },
     {
-      "id": "room-201",
-      "title-en": "Room 201",
-      "title-th": "ห้อง 201"
+      "id": "all-rooms",
+      "title-en": "All rooms",
+      "title-th": "ห้องทั้งหมด"
     }
   ],
   "items": [
@@ -66,20 +66,52 @@
       "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/common-english/202605-facebook-post-english.jpg"
     },
     {
-      "id": "201-1",
+      "id": "collage-201",
       "title-en": "Room 201",
       "title-th": "ห้อง 201",
-      "group-id": "room-201",
+      "group-id": "all-rooms",
       "type": "image",
       "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/201/202605-room-201.jpg"
     },
     {
-      "id": "201-2",
-      "title-en": "Room 201",
-      "title-th": "ห้อง 201",
-      "group-id": "room-201",
+      "id": "collage-202",
+      "title-en": "Room 202",
+      "title-th": "ห้อง 202",
+      "group-id": "all-rooms",
       "type": "image",
-      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/201/20260315-1.jpeg"
+      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/202/202605-room-202.jpg"
+    },
+    {
+      "id": "collage-203",
+      "title-en": "Room 203",
+      "title-th": "ห้อง 203",
+      "group-id": "all-rooms",
+      "type": "image",
+      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/203/202605-room-203.jpg"
+    },
+    {
+      "id": "collage-301",
+      "title-en": "Room 301",
+      "title-th": "ห้อง 301",
+      "group-id": "all-rooms",
+      "type": "image",
+      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/301/202605-room-301.jpg"
+    },
+    {
+      "id": "collage-302",
+      "title-en": "Room 302",
+      "title-th": "ห้อง 302",
+      "group-id": "all-rooms",
+      "type": "image",
+      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/302/202605-room-302.jpg"
+    },
+    {
+      "id": "collage-303",
+      "title-en": "Room 303",
+      "title-th": "ห้อง 303",
+      "group-id": "all-rooms",
+      "type": "image",
+      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/303/202605-room-303.jpg"
     }
   ]
 }
