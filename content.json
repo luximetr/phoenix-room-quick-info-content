@@ -1,29 +1,69 @@
 {
   "groups": [
     {
-      "id": "common-info",
-      "title-en": "Common Info",
-      "title-th": "ข้อมูลทั่วไป"
+      "id": "common-thai",
+      "title-en": "Common Thai",
+      "title-th": "ข้อมูลทั่วไปภาษาไทย"
+    },
+    {
+      "id": "common-english",
+      "title-en": "Common English",
+      "title-th": "ข้อมูลทั่วไปภาษาอังกฤษ"
     },
     {
       "id": "room-201",
       "title-en": "Room 201",
       "title-th": "ห้อง 201"
-    },
-    {
-      "id": "room-202",
-      "title-en": "Room 202",
-      "title-th": "ห้อง 202"
     }
   ],
   "items": [
     {
-      "id": "1",
-      "title-en": "Common Info",
-      "title-th": "โพสต์แรก",
-      "group-id": "common-info",
-      "type": "text",
-      "content": "Phoenix Room is a modern and comfortable space designed for relaxation and productivity."
+      "id": "ct-1",
+      "title-en": "All rooms",
+      "title-th": "ห้องทั้งหมด",
+      "group-id": "common-thai",
+      "type": "image",
+      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/common-thai/202605-facebook-quick-reply-all-rooms-thai.jpg"
+    },
+    {
+      "id": "ct-2",
+      "title-en": "FB no price",
+      "title-th": "เฟซบุ๊กไม่มีราคา",
+      "group-id": "common-thai",
+      "type": "image",
+      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/common-thai/202605-facebook-post-no-price-thai.jpg"
+    },
+    {
+      "id": "ct-3",
+      "title-en": "FB with price",
+      "title-th": "เฟซบุ๊กมีราคา",
+      "group-id": "common-thai",
+      "type": "image",
+      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/common-thai/202605-facebook-post-thai.jpg"
+    },
+    {
+      "id": "ce-1",
+      "title-en": "All rooms",
+      "title-th": "ห้องทั้งหมด",
+      "group-id": "common-english",
+      "type": "image",
+      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/common-english/202605-facebook-quick-reply-all-rooms-english.jpg"
+    },
+    {
+      "id": "ce-2",
+      "title-en": "FB no price",
+      "title-th": "เฟซบุ๊กไม่มีราคา",
+      "group-id": "common-english",
+      "type": "image",
+      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/common-english/202605-facebook-post-no-price-english.jpg"
+    },
+    {
+      "id": "ce-3",
+      "title-en": "FB with price",
+      "title-th": "เฟซบุ๊กมีราคา",
+      "group-id": "common-english",
+      "type": "image",
+      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/common-english/202605-facebook-post-english.jpg"
     },
     {
       "id": "201-1",
@@ -31,7 +71,7 @@
       "title-th": "ห้อง 201",
       "group-id": "room-201",
       "type": "image",
-      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/201/20260315-1.jpeg"
+      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/201/202605-room-201.jpg"
     },
     {
       "id": "201-2",
@@ -39,31 +79,7 @@
       "title-th": "ห้อง 201",
       "group-id": "room-201",
       "type": "image",
-      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/201/20260315-2.jpeg"
-    },
-    {
-      "id": "201-3",
-      "title-en": "Room 201",
-      "title-th": "ห้อง 201",
-      "group-id": "room-201",
-      "type": "image",
-      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/201/20260315-3.jpeg"
-    },
-    {
-      "id": "201-4",
-      "title-en": "Room 201",
-      "title-th": "ห้อง 201",
-      "group-id": "room-201",
-      "type": "image",
-      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/201/20260315-4.jpeg"
-    },
-    {
-      "id": "202-1",
-      "title-en": "Room 202",
-      "title-th": "ห้อง 202",
-      "group-id": "room-202",
-      "type": "image",
-      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/202/20260315-1.jpeg"
+      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/201/20260315-1.jpeg"
     }
   ]
 }
