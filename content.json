@@ -27,40 +27,40 @@
     },
     {
       "id": "ct-2",
-      "title-en": "FB no price",
-      "title-th": "เฟซบุ๊กไม่มีราคา",
+      "title-en": "FB post, TH",
+      "title-th": "เฟซบุ๊กไม่มีราคา, TH",
       "group-id": "common-thai",
       "type": "image",
       "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/common-thai/202605-facebook-post-no-price-thai.jpg"
     },
     {
       "id": "ct-3",
-      "title-en": "FB with price",
-      "title-th": "เฟซบุ๊กมีราคา",
+      "title-en": "FB post + price, TH",
+      "title-th": "เฟซบุ๊กมีราคา, TH",
       "group-id": "common-thai",
       "type": "image",
       "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/common-thai/202605-facebook-post-thai.jpg"
     },
     {
       "id": "ce-1",
-      "title-en": "All rooms",
-      "title-th": "ห้องทั้งหมด",
+      "title-en": "All rooms, EN",
+      "title-th": "ห้องทั้งหมด, EN",
       "group-id": "common-english",
       "type": "image",
       "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/common-english/202605-facebook-quick-reply-all-rooms-english.jpg"
     },
     {
       "id": "ce-2",
-      "title-en": "FB no price",
-      "title-th": "เฟซบุ๊กไม่มีราคา",
+      "title-en": "FB post, EN",
+      "title-th": "เฟซบุ๊กไม่มีราคา, EN",
       "group-id": "common-english",
       "type": "image",
       "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/common-english/202605-facebook-post-no-price-english.jpg"
     },
     {
       "id": "ce-3",
-      "title-en": "FB with price",
-      "title-th": "เฟซบุ๊กมีราคา",
+      "title-en": "FB post + price, EN",
+      "title-th": "เฟซบุ๊กมีราคา, EN",
       "group-id": "common-english",
       "type": "image",
       "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/common-english/202605-facebook-post-english.jpg"
