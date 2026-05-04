@@ -19,19 +19,11 @@
   "items": [
     {
       "id": "ct-1",
-      "title-en": "All rooms",
-      "title-th": "ห้องทั้งหมด",
+      "title-en": "All rooms, TH",
+      "title-th": "ห้องทั้งหมด, TH",
       "group-id": "common-thai",
       "type": "image",
       "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/common-thai/202605-facebook-quick-reply-all-rooms-thai.jpg"
-    },
-    {
-      "id": "ct-2",
-      "title-en": "FB post, TH",
-      "title-th": "เฟซบุ๊กไม่มีราคา, TH",
-      "group-id": "common-thai",
-      "type": "image",
-      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/common-thai/202605-facebook-post-no-price-thai.jpg"
     },
     {
       "id": "ce-1",
@@ -40,6 +32,14 @@
       "group-id": "common-english",
       "type": "image",
       "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/common-english/202605-facebook-quick-reply-all-rooms-english.jpg"
+    },
+    {
+      "id": "ct-2",
+      "title-en": "FB post, TH",
+      "title-th": "เฟซบุ๊กไม่มีราคา, TH",
+      "group-id": "common-thai",
+      "type": "image",
+      "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/common-thai/202605-facebook-post-no-price-thai.jpg"
     },
     {
       "id": "ce-2",
