@@ -27,8 +27,8 @@
     },
     {
       "id": "ce-1",
-      "title-en": "All rooms, English",
-      "title-th": "ห้องทั้งหมด, English",
+      "title-en": "All rooms, EN",
+      "title-th": "ห้องทั้งหมด, EN",
       "group-id": "common-english",
       "type": "image",
       "content": "https://raw.githubusercontent.com/luximetr/phoenix-room-quick-info-content/main/photos/common-english/202605-facebook-quick-reply-all-rooms-english.jpg"
